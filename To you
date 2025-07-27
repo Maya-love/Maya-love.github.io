@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Letters to Vikranth</title>
+  <style>
+    body {
+      background: #f9f5ec;
+      font-family: 'Georgia', serif;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      text-align: center;
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    .letter {
+      background: #fffdf5;
+      padding: 30px;
+      margin-bottom: 40px;
+      border: 1px solid #ddd;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      border-radius: 8px;
+      white-space: pre-wrap;
+    }
+    .date {
+      font-style: italic;
+      color: #555;
+    }
+    .signature {
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Letters to Vikranth</h1>
+
+  <div class="letter">
+    <div class="date">✉️ July 27, 2025</div>
+    <p>Dearest Vikranth,</p>
+
+    <p>Today marks one year since we broke up. It’s strange how even our goodbye has an anniversary — something we never got to celebrate for our love. And yet, here I am, still full of you.</p>
+
+    <p>I miss you in ways words can't always explain. I miss the boy who stared at me in my pajamas like I was magic. I miss your smile — those dimples that could break my heart all over again — and your brown eyes that made me feel like I belonged.</p>
+
+    <p>You were beautiful. And you were mine. I still love you like nothing else. Not out of weakness, not out of pride — but because some loves don’t vanish with time. They settle deep and ache quietly.</p>
+
+    <p>Maybe one day, you'll read this. Maybe you never will. But I had to write it — for me. For us.</p>
+
+    <p class="signature">Always your girl,<br><strong>Maya</strong></p>
+  </div>
+
+</body>
+</html>
